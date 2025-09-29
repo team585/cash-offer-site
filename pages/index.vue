@@ -10,7 +10,7 @@
       </p>
       <button
         class="mt-6 bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded text-lg font-semibold"
-        data-tally-open="TALLY_ID_HERE" data-tally-layout="modal"
+        data-tally-open="mZ079A" data-tally-layout="modal"
         data-tally-auto-close="true" data-tally-hide-title="true" data-tally-overlay="true"
         aria-haspopup="dialog">
         GET MY CASH OFFER
